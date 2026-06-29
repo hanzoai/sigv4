@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="sigv4" width="880"></p>
+
 github.com/prometheus/sigv4 module
 =========================================
 
